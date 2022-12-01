@@ -44,7 +44,7 @@ i.e, every person maintains a p2p connection with every other person in the room
 1. Clone project
 
 ```
-git clone 
+git clone https://github.com/SWAIN1998/Talkhouse
 ```
 
 ## Manual
